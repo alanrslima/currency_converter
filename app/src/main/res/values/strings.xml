@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="qual_o_valor_em_real">Qual o valor em real?</string>
+    <string name="valor_em_dolar">Valor em dolar</string>
+    <string name="valor_em_euro">Valor em euro</string>
+    <string name="calcular">Calcular</string>
+    <string name="informe_valor">Informe um valor</string>
+</resources>
